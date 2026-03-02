@@ -1,0 +1,10 @@
+
+# Self-Review Checklist
+
+Before opening this PR, I have verified the following:
+
+- [ ] **Code correctness**: Does the code do what the title says?
+- [ ] **Test coverage**: Are there tests, and do they pass?
+- [ ] **Documentation**: Is the README accurate and includes setup steps?
+- [ ] **Scope**: Is this PR focused on a single logical change?
+- [ ] **No debug artifacts**: No breakpoint() or temporary print statements left.
