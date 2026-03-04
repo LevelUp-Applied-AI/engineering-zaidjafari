@@ -15,3 +15,4 @@ docker run -d \
   -e POSTGRES_PASSWORD=prework \
   -p 5432:5432 \
   postgres:15-alpine 
+# Verified by Zaid
